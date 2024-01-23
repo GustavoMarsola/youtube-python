@@ -10,7 +10,7 @@ Assista aos vídeos no [YouTube](https://www.youtube.com/channel/UCdF6sIM85qV0Qr
 
 ## 📂 Estrutura do Repositório
 
-- **[Python Básico]**
+- **Python Básico**
   - Dedicado a pessoas que querem dar os primeiros passos na linguagem de programação
 
 ## 🔧 Como Contribuir
@@ -20,7 +20,7 @@ Se você deseja contribuir, sugerir melhorias ou relatar problemas, sinta-se à 
 
 ## 📧 Contatos
 
-- [marsola.tech@gmail.com]
+- marsola.tech@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/gustavo-marsola-borges-087a7617b/)
 - [WhatsApp](https://wa.me/5511973437731)
 - [Instagram](https://www.instagram.com/gustavomarsola/)
