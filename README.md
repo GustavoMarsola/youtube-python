@@ -1,6 +1,7 @@
-# [Nome do Seu Canal] - Códigos e Projetos
+# Gustavo Marsola - Códigos e Projetos <img src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" alt="YouTube Logo" width="50"/>
 
-Bem-vindo ao repositório oficial do [Nome do Seu Canal] no GitHub! Aqui você encontrará os códigos e projetos associados aos vídeos do canal. Fique à vontade para explorar, contribuir e compartilhar suas ideias.
+
+Bem-vindo ao repositório oficial do Gustavo Marsola no GitHub! Aqui você encontrará os códigos e projetos associados aos vídeos do canal. Fique à vontade para explorar, contribuir e compartilhar suas ideias.
 
 ## 🚀 Sobre o Canal
 
