@@ -29,7 +29,7 @@ Se você deseja contribuir, sugerir melhorias ou relatar problemas, sinta-se à 
 ## 📧 Contato
 
 - [Email de Contato]
-- [WhatsApp](wa.me/5511973437731)
+- [WhatsApp](https://wa.me/5511973437731)
 - [Instagram](https://www.instagram.com/gustavomarsola/)
 
 Obrigado por apoiar [Nome do Seu Canal]! Esperamos que você encontre os recursos úteis e interessantes. Sinta-se à vontade para compartilhar e contribuir!
