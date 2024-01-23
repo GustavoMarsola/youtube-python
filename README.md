@@ -29,7 +29,7 @@ Se você deseja contribuir, sugerir melhorias ou relatar problemas, sinta-se à 
 ## 📧 Contato
 
 - [Email de Contato]
-- [WhatsApp](https://wa.me/5511973437731) ![WhatsApp Icon](https://img.icons8.com/color/48/000000/whatsapp--v1.png)
+- [WhatsApp](https://wa.me/5511973437731) <img src="https://img.icons8.com/color/20/000000/whatsapp--v1.png"/> 
 - [Instagram](https://www.instagram.com/gustavomarsola/) ![Instagram Icon](https://img.icons8.com/color/48/000000/instagram-new.png)
 
 Obrigado por apoiar [Nome do Seu Canal]! Esperamos que você encontre os recursos úteis e interessantes. Sinta-se à vontade para compartilhar e contribuir!
