@@ -4,32 +4,25 @@ Bem-vindo meu repositório oficial no GitHub! Aqui você encontrará os códigos
 
 ## 🚀 Sobre o Canal
 
-[Descreva brevemente o seu canal, o tipo de conteúdo que você cria e os tópicos que você cobre.]
+Dedicado ao ensino e debates sobre programação e tecnologia !
 
 Assista aos vídeos no [YouTube](https://www.youtube.com/channel/UCdF6sIM85qV0QrXQck7JfpQ) e inscreva-se para não perder as atualizações!
 
 ## 📂 Estrutura do Repositório
 
-- **[Nome do Projeto 1]**
-  - [Breve descrição ou propósito do projeto 1]
-  - [Links para tutoriais ou vídeos relacionados]
-
-- **[Nome do Projeto 2]**
-  - [Breve descrição ou propósito do projeto 2]
-  - [Links para tutoriais ou vídeos relacionados]
-
-- **[Outros Projetos]**
-  - [Qualquer outro projeto ou código que você compartilhe]
+- **[Python Básico]**
+  - Dedicado a pessoas que querem dar os primeiros passos na linguagem de programação
 
 ## 🔧 Como Contribuir
 
 Se você deseja contribuir, sugerir melhorias ou relatar problemas, sinta-se à vontade para abrir uma [issue](https://github.com/GustavoMarsola/youtube-python/issues) ou enviar um [pull request](https://github.com/GustavoMarsola/youtube-python/pulls).
 
 
-## 📧 Contato
+## 📧 Contatos
 
-- [Email](marsola.tech@gmail.com)
+- [marsola.tech@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/gustavo-marsola-borges-087a7617b/)
 - [WhatsApp](https://wa.me/5511973437731)
 - [Instagram](https://www.instagram.com/gustavomarsola/)
 
-Obrigado por apoiar [Nome do Seu Canal]! Esperamos que você encontre os recursos úteis e interessantes. Sinta-se à vontade para compartilhar e contribuir!
+Obrigado por apoiar meu canal! 👋
