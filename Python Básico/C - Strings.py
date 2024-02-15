@@ -7,3 +7,12 @@ frase_correta = frase_errada.replace('CORINTHIANS', 'SÃO PAULO')
 print(frase_correta)
 
 
+# 2) isnumeric
+
+cpf = '123.456.789-00'
+
+print(cpf.isnumeric()) # False, pois tem pontos e hífen
+
+cpf = '12345678900'
+
+print(cpf.isnumeric()) # True, pois contém somente números
