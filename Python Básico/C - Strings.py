@@ -1,7 +1,9 @@
 # Funções bem úteis das strings
 
-frase_errada = 'o CORINTHIANS é o melhor time do BRASIL'
+# 1) replace
 
+frase_errada = 'O CORINTHIANS É O MELHOR TIME DO BRASIL'
 frase_correta = frase_errada.replace('CORINTHIANS', 'SÃO PAULO')
+print(frase_correta)
 
-print('Agora sim está correto: ', frase_correta.upper())
+
