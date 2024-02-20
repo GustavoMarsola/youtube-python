@@ -19,8 +19,8 @@ cpf = '12345678900'
 
 # 3) lower e upper
 
-cidade1 = "Osasco"    
-cidade2 = "OSASCO"
+cidade1 = "BRASIL"    
+cidade2 = "brasil"
 
 conferir_cidades = cidade1 == cidade2
 
