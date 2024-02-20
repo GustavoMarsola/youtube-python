@@ -19,11 +19,11 @@ cpf = '12345678900'
 
 # 3) lower e upper
 
-cidade1 = "BRASIL"    
-cidade2 = "brasil"
+cidade1 = "Rio de JANEIRO"    
+cidade2 = "Rio de Janeiro"
 
-conferir_cidades = cidade1 == cidade2
+conferir_cidades = cidade1.upper() == cidade2.upper()
 
 print('É a mesma cidade: ', conferir_cidades)
-print('Cidade 1: ', cidade1)
-print('Cidade 2: ', cidade2)
+print('Cidade 1: ', cidade1.upper())
+print('Cidade 2: ', cidade2.upper())
